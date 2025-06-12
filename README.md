@@ -55,7 +55,7 @@ The site can be deployed to any static hosting service:
 
 ## Contact
 
-- Email: abhishekgangadhar@gmail.com
+- Email: abhishekgangadharharihar@gmail.com
 - LinkedIn: https://linkedin.com/in/abhishek-harihar
 - GitHub: https://github.com/abhishek-harihar
 
